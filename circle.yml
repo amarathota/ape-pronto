@@ -1,0 +1,9 @@
+dependencies:
+  pre:
+    - ./scripts/npmrc.sh
+
+deployment:
+  npm:
+    branch: master
+    commands:
+      - ./scripts/npmpublish.sh
