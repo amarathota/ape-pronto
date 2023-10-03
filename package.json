@@ -35,7 +35,7 @@
     "dustjs-helpers": "^1.6.2",
     "dustjs-linkedin": "^2.6.1",
     "lodash": "latest",
-    "postcss": "4.1.16",
+    "postcss": "8.4.31",
     "request-promise": "^0.4.2",
     "stylus": "^0.50.0",
     "sync-request": "^2.0.1",
